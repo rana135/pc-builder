@@ -7,7 +7,7 @@
 To install this, run the following command
 
 ```bash
-  git clone https://github.com/nisharga/pc-builder.git
+  git clone https://github.com/rana135/pc-builder.git
 ```
 
 then go to the directory by
